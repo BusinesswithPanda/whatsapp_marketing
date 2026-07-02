@@ -1,0 +1,671 @@
+{
+  "_AuthenticatedLayout-Dcqli8aS.js": {
+    "file": "assets/AuthenticatedLayout-Dcqli8aS.js",
+    "name": "AuthenticatedLayout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_transition-DZJcKUqz.js",
+      "_ColvoLogo-BOBBW61G.js",
+      "_bell-CDFZuiEl.js",
+      "_users-D-XJUCWI.js"
+    ]
+  },
+  "_ColvoLogo-BOBBW61G.js": {
+    "file": "assets/ColvoLogo-BOBBW61G.js",
+    "name": "ColvoLogo",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_GuestLayout-CfC0tqZQ.js": {
+    "file": "assets/GuestLayout-CfC0tqZQ.js",
+    "name": "GuestLayout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_bell-CDFZuiEl.js",
+      "_search-BD2aFFYa.js",
+      "_trending-up-DaMZ0uC8.js"
+    ]
+  },
+  "_InputLabel-5GHxyyvQ.js": {
+    "file": "assets/InputLabel-5GHxyyvQ.js",
+    "name": "InputLabel",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_Modal-D6_D_GHv.js": {
+    "file": "assets/Modal-D6_D_GHv.js",
+    "name": "Modal",
+    "imports": [
+      "resources/js/app.tsx",
+      "_transition-DZJcKUqz.js",
+      "_with-selector-BOhamzOQ.js"
+    ]
+  },
+  "_PrimaryButton-CZh9QPgY.js": {
+    "file": "assets/PrimaryButton-CZh9QPgY.js",
+    "name": "PrimaryButton",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_TextInput-CSIlsGsG.js": {
+    "file": "assets/TextInput-CSIlsGsG.js",
+    "name": "TextInput",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_arrow-right-BfbXfVhX.js": {
+    "file": "assets/arrow-right-BfbXfVhX.js",
+    "name": "arrow-right",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_bell-CDFZuiEl.js": {
+    "file": "assets/bell-CDFZuiEl.js",
+    "name": "bell",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_chart-column-D1QUBAcT.js": {
+    "file": "assets/chart-column-D1QUBAcT.js",
+    "name": "chart-column",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_check-BzBy30vC.js": {
+    "file": "assets/check-BzBy30vC.js",
+    "name": "check",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_check-check-CFBLx-jS.js": {
+    "file": "assets/check-check-CFBLx-jS.js",
+    "name": "check-check",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_chevron-left-Rad4mKjj.js": {
+    "file": "assets/chevron-left-Rad4mKjj.js",
+    "name": "chevron-left",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_chevron-right-B1ESJkdP.js": {
+    "file": "assets/chevron-right-B1ESJkdP.js",
+    "name": "chevron-right",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_circle-check-DJCtktpB.js": {
+    "file": "assets/circle-check-DJCtktpB.js",
+    "name": "circle-check",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_circle-x-CWYREuI8.js": {
+    "file": "assets/circle-x-CWYREuI8.js",
+    "name": "circle-x",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_clock-D4fE4sFU.js": {
+    "file": "assets/clock-D4fE4sFU.js",
+    "name": "clock",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_copy-B-L0O5_O.js": {
+    "file": "assets/copy-B-L0O5_O.js",
+    "name": "copy",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_funnel-K0d2K7lI.js": {
+    "file": "assets/funnel-K0d2K7lI.js",
+    "name": "funnel",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_image-DwsarVm3.js": {
+    "file": "assets/image-DwsarVm3.js",
+    "name": "image",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_layout-template-DgM8wOfr.js": {
+    "file": "assets/layout-template-DgM8wOfr.js",
+    "name": "layout-template",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_pen-BHiL8VIV.js": {
+    "file": "assets/pen-BHiL8VIV.js",
+    "name": "pen",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_phone-DCR6bPRj.js": {
+    "file": "assets/phone-DCR6bPRj.js",
+    "name": "phone",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_plus-CkZDdpE0.js": {
+    "file": "assets/plus-CkZDdpE0.js",
+    "name": "plus",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_rocket-CWsnBckQ.js": {
+    "file": "assets/rocket-CWsnBckQ.js",
+    "name": "rocket",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_save-FkxDS60O.js": {
+    "file": "assets/save-FkxDS60O.js",
+    "name": "save",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_search-BD2aFFYa.js": {
+    "file": "assets/search-BD2aFFYa.js",
+    "name": "search",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_smartphone-CcHwicRt.js": {
+    "file": "assets/smartphone-CcHwicRt.js",
+    "name": "smartphone",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_sparkles--jN9e75H.js": {
+    "file": "assets/sparkles--jN9e75H.js",
+    "name": "sparkles",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_transition-DZJcKUqz.js": {
+    "file": "assets/transition-DZJcKUqz.js",
+    "name": "transition",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_trash-2-CYUX_Pji.js": {
+    "file": "assets/trash-2-CYUX_Pji.js",
+    "name": "trash-2",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_trending-up-DaMZ0uC8.js": {
+    "file": "assets/trending-up-DaMZ0uC8.js",
+    "name": "trending-up",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_user-CdH55Ty3.js": {
+    "file": "assets/user-CdH55Ty3.js",
+    "name": "user",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_users-D-XJUCWI.js": {
+    "file": "assets/users-D-XJUCWI.js",
+    "name": "users",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "_with-selector-BOhamzOQ.js": {
+    "file": "assets/with-selector-BOhamzOQ.js",
+    "name": "with-selector",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_zap-CTUoejFp.js": {
+    "file": "assets/zap-CTUoejFp.js",
+    "name": "zap",
+    "imports": [
+      "_ColvoLogo-BOBBW61G.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.tsx": {
+    "file": "assets/ConfirmPassword-D7bfWhK3.js",
+    "name": "ConfirmPassword",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_TextInput-CSIlsGsG.js",
+      "_InputLabel-5GHxyyvQ.js",
+      "_PrimaryButton-CZh9QPgY.js",
+      "_GuestLayout-CfC0tqZQ.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.tsx": {
+    "file": "assets/ForgotPassword-CJTgaN67.js",
+    "name": "ForgotPassword",
+    "src": "resources/js/Pages/Auth/ForgotPassword.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_TextInput-CSIlsGsG.js",
+      "_PrimaryButton-CZh9QPgY.js",
+      "_GuestLayout-CfC0tqZQ.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.tsx": {
+    "file": "assets/Login-C0W8wd8o.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Auth/Login.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_user-CdH55Ty3.js",
+      "_TextInput-CSIlsGsG.js",
+      "_InputLabel-5GHxyyvQ.js",
+      "_PrimaryButton-CZh9QPgY.js",
+      "_GuestLayout-CfC0tqZQ.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.tsx": {
+    "file": "assets/Register-CnFHdE2v.js",
+    "name": "Register",
+    "src": "resources/js/Pages/Auth/Register.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_user-CdH55Ty3.js",
+      "_TextInput-CSIlsGsG.js",
+      "_InputLabel-5GHxyyvQ.js",
+      "_PrimaryButton-CZh9QPgY.js",
+      "_GuestLayout-CfC0tqZQ.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.tsx": {
+    "file": "assets/ResetPassword-LUHU__Jp.js",
+    "name": "ResetPassword",
+    "src": "resources/js/Pages/Auth/ResetPassword.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_TextInput-CSIlsGsG.js",
+      "_InputLabel-5GHxyyvQ.js",
+      "_PrimaryButton-CZh9QPgY.js",
+      "_GuestLayout-CfC0tqZQ.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.tsx": {
+    "file": "assets/VerifyEmail-Cz8LwHKI.js",
+    "name": "VerifyEmail",
+    "src": "resources/js/Pages/Auth/VerifyEmail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_PrimaryButton-CZh9QPgY.js",
+      "_GuestLayout-CfC0tqZQ.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.tsx": {
+    "file": "assets/Dashboard-CT3v8ky0.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Dashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_arrow-right-BfbXfVhX.js",
+      "_chart-column-D1QUBAcT.js",
+      "_check-check-CFBLx-jS.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_users-D-XJUCWI.js",
+      "_plus-CkZDdpE0.js",
+      "_rocket-CWsnBckQ.js",
+      "_with-selector-BOhamzOQ.js"
+    ]
+  },
+  "resources/js/Pages/Manual/Index.tsx": {
+    "file": "assets/Index-C-r72xlQ.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Manual/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_image-DwsarVm3.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_plus-CkZDdpE0.js",
+      "_save-FkxDS60O.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Edit.tsx": {
+    "file": "assets/Edit-CzH2O72s.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/Profile/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx": {
+    "file": "assets/DeleteUserForm-URBZP8EP.js",
+    "name": "DeleteUserForm",
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Modal-D6_D_GHv.js",
+      "_TextInput-CSIlsGsG.js",
+      "_InputLabel-5GHxyyvQ.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx": {
+    "file": "assets/UpdatePasswordForm-BYWrXqXJ.js",
+    "name": "UpdatePasswordForm",
+    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_transition-DZJcKUqz.js",
+      "_TextInput-CSIlsGsG.js",
+      "_InputLabel-5GHxyyvQ.js",
+      "_PrimaryButton-CZh9QPgY.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx": {
+    "file": "assets/UpdateProfileInformationForm-BxalZKgu.js",
+    "name": "UpdateProfileInformationForm",
+    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_transition-DZJcKUqz.js",
+      "_TextInput-CSIlsGsG.js",
+      "_InputLabel-5GHxyyvQ.js",
+      "_PrimaryButton-CZh9QPgY.js"
+    ]
+  },
+  "resources/js/Pages/Welcome.tsx": {
+    "file": "assets/Welcome-DazbsLik.js",
+    "name": "Welcome",
+    "src": "resources/js/Pages/Welcome.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_arrow-right-BfbXfVhX.js",
+      "_chart-column-D1QUBAcT.js",
+      "_check-check-CFBLx-jS.js",
+      "_check-BzBy30vC.js",
+      "_clock-D4fE4sFU.js",
+      "_users-D-XJUCWI.js",
+      "_trending-up-DaMZ0uC8.js",
+      "_zap-CTUoejFp.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Accounts/Index.tsx": {
+    "file": "assets/Index-mMSxPNfy.js",
+    "name": "Index",
+    "src": "resources/js/Pages/WhatsApp/Accounts/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_phone-DCR6bPRj.js",
+      "_plus-CkZDdpE0.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Automations/Builder.tsx": {
+    "file": "assets/Builder-1W5rFbsH.js",
+    "name": "Builder",
+    "src": "resources/js/Pages/WhatsApp/Automations/Builder.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_check-BzBy30vC.js",
+      "_chevron-left-Rad4mKjj.js",
+      "_chevron-right-B1ESJkdP.js",
+      "_clock-D4fE4sFU.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_users-D-XJUCWI.js",
+      "_pen-BHiL8VIV.js",
+      "_save-FkxDS60O.js",
+      "_smartphone-CcHwicRt.js",
+      "_trash-2-CYUX_Pji.js",
+      "_zap-CTUoejFp.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Automations/Index.tsx": {
+    "file": "assets/Index-B-LpGfBV.js",
+    "name": "Index",
+    "src": "resources/js/Pages/WhatsApp/Automations/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_arrow-right-BfbXfVhX.js",
+      "_bell-CDFZuiEl.js",
+      "_clock-D4fE4sFU.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_users-D-XJUCWI.js",
+      "_pen-BHiL8VIV.js",
+      "_plus-CkZDdpE0.js",
+      "_sparkles--jN9e75H.js",
+      "_trash-2-CYUX_Pji.js",
+      "_zap-CTUoejFp.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Campaigns/Index.tsx": {
+    "file": "assets/Index-FLNbVWlH.js",
+    "name": "Index",
+    "src": "resources/js/Pages/WhatsApp/Campaigns/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_clock-D4fE4sFU.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_users-D-XJUCWI.js",
+      "_plus-CkZDdpE0.js",
+      "_rocket-CWsnBckQ.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Campaigns/Wizard.tsx": {
+    "file": "assets/Wizard-ByavrcIL.js",
+    "name": "Wizard",
+    "src": "resources/js/Pages/WhatsApp/Campaigns/Wizard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_arrow-right-BfbXfVhX.js",
+      "_chevron-right-B1ESJkdP.js",
+      "_circle-check-DJCtktpB.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_layout-template-DgM8wOfr.js",
+      "_users-D-XJUCWI.js",
+      "_plus-CkZDdpE0.js",
+      "_rocket-CWsnBckQ.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Contacts/Index.tsx": {
+    "file": "assets/Index-C-g5iqZe.js",
+    "name": "Index",
+    "src": "resources/js/Pages/WhatsApp/Contacts/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Modal-D6_D_GHv.js",
+      "_ColvoLogo-BOBBW61G.js",
+      "_funnel-K0d2K7lI.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_pen-BHiL8VIV.js",
+      "_plus-CkZDdpE0.js",
+      "_search-BD2aFFYa.js",
+      "_trash-2-CYUX_Pji.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Inbox/Index.tsx": {
+    "file": "assets/Index-BFwllulu.js",
+    "name": "Index",
+    "src": "resources/js/Pages/WhatsApp/Inbox/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_check-check-CFBLx-jS.js",
+      "_check-BzBy30vC.js",
+      "_circle-x-CWYREuI8.js",
+      "_clock-D4fE4sFU.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_users-D-XJUCWI.js",
+      "_phone-DCR6bPRj.js",
+      "_search-BD2aFFYa.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Templates/Create.tsx": {
+    "file": "assets/Create-D9bh32-5.js",
+    "name": "Create",
+    "src": "resources/js/Pages/WhatsApp/Templates/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_chevron-left-Rad4mKjj.js",
+      "_chevron-right-B1ESJkdP.js",
+      "_image-DwsarVm3.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_layout-template-DgM8wOfr.js",
+      "_users-D-XJUCWI.js",
+      "_plus-CkZDdpE0.js",
+      "_save-FkxDS60O.js",
+      "_smartphone-CcHwicRt.js",
+      "_trash-2-CYUX_Pji.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Templates/Generator.tsx": {
+    "file": "assets/Generator-DHhK9mOR.js",
+    "name": "Generator",
+    "src": "resources/js/Pages/WhatsApp/Templates/Generator.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_arrow-right-BfbXfVhX.js",
+      "_chevron-left-Rad4mKjj.js",
+      "_copy-B-L0O5_O.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_layout-template-DgM8wOfr.js",
+      "_sparkles--jN9e75H.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Templates/Index.tsx": {
+    "file": "assets/Index-4sMTqr1S.js",
+    "name": "Index",
+    "src": "resources/js/Pages/WhatsApp/Templates/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_circle-check-DJCtktpB.js",
+      "_circle-x-CWYREuI8.js",
+      "_clock-D4fE4sFU.js",
+      "_funnel-K0d2K7lI.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_users-D-XJUCWI.js",
+      "_plus-CkZDdpE0.js",
+      "_search-BD2aFFYa.js",
+      "_sparkles--jN9e75H.js"
+    ]
+  },
+  "resources/js/Pages/WhatsApp/Templates/Library.tsx": {
+    "file": "assets/Library-CPFuFSKu.js",
+    "name": "Library",
+    "src": "resources/js/Pages/WhatsApp/Templates/Library.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_ColvoLogo-BOBBW61G.js",
+      "_chevron-left-Rad4mKjj.js",
+      "_copy-B-L0O5_O.js",
+      "_AuthenticatedLayout-Dcqli8aS.js",
+      "_layout-template-DgM8wOfr.js"
+    ]
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-BIR3QL5t.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Auth/ConfirmPassword.tsx",
+      "resources/js/Pages/Auth/ForgotPassword.tsx",
+      "resources/js/Pages/Auth/Login.tsx",
+      "resources/js/Pages/Auth/Register.tsx",
+      "resources/js/Pages/Auth/ResetPassword.tsx",
+      "resources/js/Pages/Auth/VerifyEmail.tsx",
+      "resources/js/Pages/Dashboard.tsx",
+      "resources/js/Pages/Manual/Index.tsx",
+      "resources/js/Pages/Profile/Edit.tsx",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx",
+      "resources/js/Pages/Welcome.tsx",
+      "resources/js/Pages/WhatsApp/Accounts/Index.tsx",
+      "resources/js/Pages/WhatsApp/Automations/Builder.tsx",
+      "resources/js/Pages/WhatsApp/Automations/Index.tsx",
+      "resources/js/Pages/WhatsApp/Campaigns/Index.tsx",
+      "resources/js/Pages/WhatsApp/Campaigns/Wizard.tsx",
+      "resources/js/Pages/WhatsApp/Contacts/Index.tsx",
+      "resources/js/Pages/WhatsApp/Inbox/Index.tsx",
+      "resources/js/Pages/WhatsApp/Templates/Create.tsx",
+      "resources/js/Pages/WhatsApp/Templates/Generator.tsx",
+      "resources/js/Pages/WhatsApp/Templates/Index.tsx",
+      "resources/js/Pages/WhatsApp/Templates/Library.tsx"
+    ],
+    "css": [
+      "assets/app-Bfyg-2sf.css"
+    ]
+  }
+}
